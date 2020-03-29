@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A25BC3CF-4EB0-0347-16C9-8BB45D616CDF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "rvtShow",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
